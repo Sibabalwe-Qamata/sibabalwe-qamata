@@ -10,6 +10,6 @@
 - ⚡ Fun fact: ... Life long Learner
 
 
-Number of Profile viewers 👇
+Number of Profile views 👇
 ---------------------------------------
 ![Visitor Count](https://profile-counter.glitch.me/{sibabalwe-qamata}/count.svg)
