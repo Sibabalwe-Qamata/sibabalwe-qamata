@@ -8,4 +8,4 @@
 - 📫 How to reach me: ...[Personal Website](https://www.sibabalweqamata.co.za)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Life long Learner
-- Number of Profile views: ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+- Number of Profile views: ![Visitor Count](https://profile-counter.glitch.me/{sibabalwe-qamata}/count.svg)
