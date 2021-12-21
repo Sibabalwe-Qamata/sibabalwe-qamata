@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sibabalwe Qamata!
 
-Sibabalwe is a Software and Cloud Engineer on a quest to build rare and invaluable skills, currently working at Cowa Bunga. Most of my day to day dealings involves me building software at work, or reading tech blogs in medium, or books. Prior to entering the job market, Sibabalwe spent most of his student life doing internships and teaching and mentoring students on campus.
+Sibabalwe is an Intermediate Software and Cloud Engineer on a quest to build rare and invaluable skills, currently working at Cowa Bunga. Most of my day to day dealings involves me building software at work, or reading tech blogs in medium, or books. Prior to entering the job market, Sibabalwe spent most of his student life doing internships and teaching and mentoring students on campus.
 
 Sibabalwe is now a Google Cloud Certified - Associate Cloud Engineer. Sibabalwe is highly skilled in leveraging resources in Google Cloud Platform to meet business requirements. Sibabalwe specializes in various web technologies ranging from front-end to back-end, including cloud engineering within Google Cloud Platfrom. He also takes time to mentor and coach individuals who are getting started with their technology career.
 
